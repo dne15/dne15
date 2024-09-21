@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **building my portfolio**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 Whilst learning **HTML, CSS and JavaScript**
 
-- 📫 How to reach me **d.memie@gmail.com**
+- 📫 Contact me at **d.memie@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
