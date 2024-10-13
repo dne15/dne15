@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dionne</h1>
-<h3 align="center">A passionate junior developer from England</h3>
+<h3 align="center">A passionate junior developer</h3>
+
+- 🌍 I'm located in **West Midlands, UK**
 
 - 🔭 I’m currently working on **building my portfolio**
 
